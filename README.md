@@ -15,7 +15,7 @@
  * 황지웅: hzw94@naver.com
 
 ### 스포츠 빅데이터
- * 김성하: eaglestar@naver.com
+ * [김성하](https://github.com/KimSeongha): eaglestar@naver.com
  * 이동민: dml9504@gmail.com
 
  
