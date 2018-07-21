@@ -4,7 +4,7 @@
 
 
 ### 인공지능 알고리즘
- * 김진호: rlawlsgh8113@inu.ac.kr
+ * [김진호](https://github.com/kimjinho1): rlawlsgh8113@inu.ac.kr
  * 이장희: leejang1130@naver.com
  * 이종길: parisinus04@inu.ac.kr
  * 함근상: gka1138@inu.ac.kr
