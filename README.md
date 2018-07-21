@@ -7,7 +7,7 @@
  * [김진호](https://github.com/kimjinho1): rlawlsgh8113@inu.ac.kr
  * 이장희: leejang1130@naver.com
  * 이종길: parisinus04@inu.ac.kr
- * 함근상: gka1138@inu.ac.kr
+ * [함근상](https://github.com/sanana4): tkdtlr8520@naver.com
 
  
 ### 음성인식 스피커
