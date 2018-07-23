@@ -29,7 +29,7 @@
 ### 새로운 형태의 HCI (보조공학 기기)
 | 이름         | github ID | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
-| 김윤수 | | fairiee@naver.com | | 
+| 김윤수 | | fairiee@naver.com | smart fork | 
 | 남영우 | | spow2544@gmail.com | | 
 | [박준영](https://github.com/zoonyoung) | [zoonyoung](https://github.com/zoonyoung) | 9851248@gmail.com | touch UI |
 | 주효진 | | doctory8@naver.com | |
