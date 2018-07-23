@@ -23,7 +23,7 @@
 | 이름         | github ID | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
 | [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | | 
-| 이동민 | | dml9504@gmail.com | |
+| [이동민](https://github.com/LeeDong-Min) |[LeeDong-Min](https://github.com/LeeDong-Min) | dml9504@gmail.com | |
 
 
 ### Future UI (보조공학 기기)
