@@ -16,7 +16,7 @@
 | 이름         | github | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
 | 전장우 | | zangwoo2007@naver.com | 화자 인식 | 
-| 황지웅 | | hzw94@naver.com | 화자 인식 |
+| [황지웅](https://github.com/wolframhwang) | [wolframhwang](https://github.com/wolframhwang) | hzw94@naver.com | 화자 인식 |
 
 
 ### 스포츠 빅데이터 (광고)
