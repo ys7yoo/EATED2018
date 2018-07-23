@@ -26,7 +26,7 @@
 | 이동민 | | dml9504@gmail.com | |
 
 
-### 새로운 형태의 HCI (보조공학 기기)
+### Future UI (보조공학 기기)
 | 이름         | github ID | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
 | 김윤수 | | fairiee@naver.com | smart fork | 
