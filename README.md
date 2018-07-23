@@ -30,7 +30,7 @@
 | 이름         | github ID | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
 | 김윤수 | | fairiee@naver.com | smart fork | 
-| 남영우 | | spow2544@gmail.com | | 
+| [남영우](https://github.com/yw0nam) |  [yw0nam](https://github.com/yw0nam) | spow2544@gmail.com | | 
 | [박준영](https://github.com/zoonyoung) | [zoonyoung](https://github.com/zoonyoung) | 9851248@gmail.com | touch UI |
 | 주효진 | | doctory8@naver.com | |
  
