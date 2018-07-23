@@ -13,13 +13,17 @@
 
 
 ### 음성인식 스피커
- * 전장우: zangwoo2007@naver.com
- * 황지웅: hzw94@naver.com
+| 이름         | github ID | e-mail          | 세부 내용 |
+| :-------------: | :------------- | :------------- | :----- |
+| 전장우 | | zangwoo2007@naver.com | | 
+| 황지웅 | | hzw94@naver.com |  |
 
 
 ### 스포츠 빅데이터
- * [김성하](https://github.com/KimSeongha): eaglestar@naver.com
- * 이동민: dml9504@gmail.com
+| 이름         | github ID | e-mail          | 세부 내용 |
+| :-------------: | :------------- | :------------- | :----- |
+| [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | | 
+| 이동민 | | dml9504@gmail.com | |
 
 
 ### 새로운 형태의 HCI (보조공학 기기)
