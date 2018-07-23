@@ -27,10 +27,12 @@
 
 
 ### 새로운 형태의 HCI (보조공학 기기)
- * 김윤수: fairiee@naver.com
- * 남영우: spow2544@gmail.com
- * [박준영](https://github.com/zoonyoung): 9851248@gmail.com
- * 주효진: doctory8@naver.com
+| 이름         | github ID | e-mail          | 세부 내용 |
+| :-------------: | :------------- | :------------- | :----- |
+| 김윤수 | | fairiee@naver.com | | 
+| 남영우 | | spow2544@gmail.com | | 
+| [박준영](https://github.com/zoonyoung) | [zoonyoung](https://github.com/zoonyoung) | 9851248@gmail.com | |
+| 주효진 | | doctory8@naver.com | |
  
  
 ### 난수 발생기 성능 분석
