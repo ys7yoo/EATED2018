@@ -19,7 +19,7 @@
 | 황지웅 | | hzw94@naver.com | 화자 인식 |
 
 
-### 스포츠 빅데이터
+### 스포츠 빅데이터 (광고)
 | 이름         | github ID | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
 | [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | | 
