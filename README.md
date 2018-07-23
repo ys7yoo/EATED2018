@@ -32,7 +32,7 @@
 | [김윤수](https://github.com/KimYunsu1) | [KimYunsu1](https://github.com/KimYunsu1) | fairiee@naver.com | smart fork | 
 | [남영우](https://github.com/yw0nam) |  [yw0nam](https://github.com/yw0nam) | spow2544@gmail.com | | 
 | [박준영](https://github.com/zoonyoung) | [zoonyoung](https://github.com/zoonyoung) | 9851248@gmail.com | touch UI |
-| 주효진 | | doctory8@naver.com | |
+| [주효진](https://github.com/JooHyo-jin) |[JooHyo-jin](https://github.com/JooHyo-jin) | doctory8@naver.com | |
  
  
 ### 난수 발생기 성능 분석
