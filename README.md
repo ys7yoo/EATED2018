@@ -2,6 +2,11 @@
 
 ## Members by Topics
 
+|          |  |            |   |
+| :-------------: | :-------------: | :-------------: | :-----: |
+| ![](pic/JinhoKim.jpg) |  ![](pic/JangheeLee.jpg)| ![](pic/JonggilLee.jpg) | | 
+
+
 ### 인공지능 알고리즘
 | 이름         | github | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
@@ -11,19 +16,18 @@
 | [함근상](https://github.com/sanana4) | [sanana4](https://github.com/sanana4) |  tkdtlr8520@naver.com | 감정인식 (추천)| 
 
 
+### 스포츠 빅데이터 (광고)
+| 이름         | github | e-mail          | 세부 내용 |
+| :-------------: | :------------- | :------------- | :----- |
+| [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | 축구 | 
+| [이동민](https://github.com/LeeDong-Min) |[LeeDong-Min](https://github.com/LeeDong-Min) | dml9504@gmail.com | 축구 |
+
 
 ### 음성인식 스피커
 | 이름         | github | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
 | 전장우 | | zangwoo2007@naver.com | 화자 인식 | 
 | [황지웅](https://github.com/wolframhwang) | [wolframhwang](https://github.com/wolframhwang) | hzw94@naver.com | 화자 인식 |
-
-
-### 스포츠 빅데이터 (광고)
-| 이름         | github | e-mail          | 세부 내용 |
-| :-------------: | :------------- | :------------- | :----- |
-| [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | 축구 | 
-| [이동민](https://github.com/LeeDong-Min) |[LeeDong-Min](https://github.com/LeeDong-Min) | dml9504@gmail.com | 축구 |
 
 
 ### Future UI (보조공학 기기)
