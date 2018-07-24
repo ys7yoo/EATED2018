@@ -22,8 +22,8 @@
 ### 스포츠 빅데이터 (광고)
 | 이름         | github | e-mail          | 세부 내용 |
 | :-------------: | :------------- | :------------- | :----- |
-| [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | | 
-| [이동민](https://github.com/LeeDong-Min) |[LeeDong-Min](https://github.com/LeeDong-Min) | dml9504@gmail.com | |
+| [김성하](https://github.com/KimSeongha)|  [KimSeongha](https://github.com/KimSeongha)  | eaglestar@naver.com | 축구 | 
+| [이동민](https://github.com/LeeDong-Min) |[LeeDong-Min](https://github.com/LeeDong-Min) | dml9504@gmail.com | 축구 |
 
 
 ### Future UI (보조공학 기기)
