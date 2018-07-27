@@ -7,7 +7,7 @@
 | 김진호 |  이장희 | 이종길 | 함근상 | 
 | ![](pic/SunghaKim.jpg) |  ![](pic/DongminLee.jpg)|   | ![](pic/JiwoongHwang.jpg) | 
 | 김성하 |  이동민 | 전장우  | 황지웅 | 
-|  |  | ![](pic/JoonyoungPark.jpg)  |  | 
+|  | ![](pic/YoungwooNam.jpg) | ![](pic/JoonyoungPark.jpg)  |  | 
 | 김윤수 |  남영우 | 박준영  | 주효진 | 
 |  |  |   |  | 
 | 홍인화 |   |   |  | 
